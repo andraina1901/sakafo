@@ -1,0 +1,3 @@
+//MO033-034.TXT ANA00033 TO ANA00034
+aliment		TAR	86	nouvelle taille enregistrement : 86
+aliment	prixaliment	RUB+		prixaliment est une nouvelle rubrique

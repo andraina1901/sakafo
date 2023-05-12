@@ -1,0 +1,4 @@
+//MO023-024.TXT ANA00023 TO ANA00024
+Menu		BASE		La base du fichier est passée de HFSQL Client/Serveur à HFSQL Classic
+Menu		FCNX-	Connexion C/S	
+Menu		FRN		

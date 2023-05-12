@@ -1,0 +1,2 @@
+//MO016-017.TXT ANA00016 TO ANA00017
+MaVue2		VIEW+		La vue MaVue2 a été créée.

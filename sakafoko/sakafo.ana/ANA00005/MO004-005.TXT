@@ -1,0 +1,5 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+famille_personne		NWL	famille (idfamille) et personne (idfamille)	Nouvelle liaison entre les fichiers famille (idfamille) et personne (idfamille)
+category_aliment		NWL	category (idcategory) et aliment (idcategory)	Nouvelle liaison entre les fichiers category (idcategory) et aliment (idcategory)
+Contrainte_famille_personne		DEL	famille (idfamille) et personne (idfamille)	Liaison supprimée entre les fichiers famille (idfamille) et personne (idfamille)
+Contrainte_category_aliment		DEL	category (idcategory) et aliment (idcategory)	Liaison supprimée entre les fichiers category (idcategory) et aliment (idcategory)

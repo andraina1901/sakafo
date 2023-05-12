@@ -1,0 +1,3 @@
+//MO025-026.TXT ANA00025 TO ANA00026
+		VIEW-	testVue	La vue testVue a été supprimée.
+		VIEW-	MaVue2	La vue MaVue2 a été supprimée.

@@ -1,0 +1,12 @@
+//MO006-007.TXT ANA00006 TO ANA00007
+personne	Idfamille	RUB+		Idfamille est une nouvelle clé
+personne	idfamille	RUB-		la rubrique idfamille est supprimée
+Contrainte_famille_personne		NWL	famille (idfamille) et personne (Idfamille)	Nouvelle liaison entre les fichiers famille (idfamille) et personne (Idfamille)
+jour_jour_personne		DEL	jour (idjour) et jour_personne (idjour)	Liaison supprimée entre les fichiers jour (idjour) et jour_personne (idjour)
+personne_jour_personne		DEL	personne (idpersonne) et jour_personne (idpersonne)	Liaison supprimée entre les fichiers personne (idpersonne) et jour_personne (idpersonne)
+personne_profile_personne		DEL	personne (idpersonne) et profile_personne (idpersonne)	Liaison supprimée entre les fichiers personne (idpersonne) et profile_personne (idpersonne)
+profil_proportion		DEL	profil (idprofil) et proportion (idprofil)	Liaison supprimée entre les fichiers profil (idprofil) et proportion (idprofil)
+profil_profile_personne		DEL	profil (idprofil) et profile_personne (idprofil)	Liaison supprimée entre les fichiers profil (idprofil) et profile_personne (idprofil)
+famille_personne		DEL	famille (idfamille) et personne (idfamille)	Liaison supprimée entre les fichiers famille (idfamille) et personne (idfamille)
+category_aliment		DEL	category (idcategory) et aliment (idcategory)	Liaison supprimée entre les fichiers category (idcategory) et aliment (idcategory)
+category_proportion		DEL	category (idcategory) et proportion (idcategory)	Liaison supprimée entre les fichiers category (idcategory) et proportion (idcategory)

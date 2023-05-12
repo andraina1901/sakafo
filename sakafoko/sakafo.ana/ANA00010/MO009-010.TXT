@@ -1,0 +1,4 @@
+//MO009-010.TXT ANA00009 TO ANA00010
+testVue	idpersonne	VWRUBNT	Identifiant automatique (8 octets)$Entier sur 8 octets	La rubrique 1!s! a pour nouveau type Identifiant automatique (8 octets)
+testVue	dtnpersonne	VWRUBTAI+	1	La rubrique dtnpersonne a comme nouvelle taille 9 au lieu de 8
+testVue	idfamille1	VWRUBNT	Identifiant automatique (8 octets)$Entier sur 8 octets	La rubrique 1!s! a pour nouveau type Identifiant automatique (8 octets)

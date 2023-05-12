@@ -1,0 +1,4 @@
+//MO044-045.TXT ANA00044 TO ANA00045
+Tsitiana		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+Tsitiana		FCNX+	Connexion C/S	
+Tsitiana		FRN		

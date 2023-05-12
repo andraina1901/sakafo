@@ -1,0 +1,3 @@
+//MO041-042.TXT ANA00041 TO ANA00042
+Tsytiana		BASE		La base du fichier est passée de HFSQL Client/Serveur à HFSQL Classic
+Tsytiana		FCNX-	Connexion C/S	

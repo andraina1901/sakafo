@@ -1,0 +1,12 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+famille		FCNX+	Connexion HFSQL Classic	
+profil		FCNX+	Connexion HFSQL Classic	
+personne		FCNX+	Connexion HFSQL Classic	
+profile_personne		FCNX+	Connexion HFSQL Classic	
+jour		FCNX+	Connexion HFSQL Classic	
+jour_personne		FCNX+	Connexion HFSQL Classic	
+category		FCNX+	Connexion HFSQL Classic	
+ration		FCNX+	Connexion HFSQL Classic	
+aliment		FCNX+	Connexion HFSQL Classic	
+proportion		FCNX+	Connexion HFSQL Classic	
+Connexion HFSQL Classic		CNX+		

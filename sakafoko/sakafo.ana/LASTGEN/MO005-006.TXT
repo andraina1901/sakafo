@@ -1,0 +1,4 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+personne		TAR	140	nouvelle taille enregistrement : 140
+personne	Idprofil	RUB-		la rubrique Idprofil est supprimée
+Contrainte_personne_profil		DEL	profil (idprofil) et personne (Idprofil)	Liaison supprimée entre les fichiers profil (idprofil) et personne (Idprofil)

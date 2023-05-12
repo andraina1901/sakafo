@@ -1,0 +1,22 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+personne		TAR	148	nouvelle taille enregistrement : 148
+personne	Idprofil	RUB+		Idprofil est une nouvelle clé
+jour		TAR	68	nouvelle taille enregistrement : 68
+jour	valeurjour	RUB-		la rubrique valeurjour est supprimée
+jour_jour_personne		NWL	jour (idjour) et jour_personne (idjour)	Nouvelle liaison entre les fichiers jour (idjour) et jour_personne (idjour)
+personne_jour_personne		NWL	personne (idpersonne) et jour_personne (idpersonne)	Nouvelle liaison entre les fichiers personne (idpersonne) et jour_personne (idpersonne)
+personne_profile_personne		NWL	personne (idpersonne) et profile_personne (idpersonne)	Nouvelle liaison entre les fichiers personne (idpersonne) et profile_personne (idpersonne)
+profil_proportion		NWL	profil (idprofil) et proportion (idprofil)	Nouvelle liaison entre les fichiers profil (idprofil) et proportion (idprofil)
+profil_profile_personne		NWL	profil (idprofil) et profile_personne (idprofil)	Nouvelle liaison entre les fichiers profil (idprofil) et profile_personne (idprofil)
+Contrainte_personne_profil		NWL	profil (idprofil) et personne (Idprofil)	Nouvelle liaison entre les fichiers profil (idprofil) et personne (Idprofil)
+Contrainte_famille_personne		NWL	famille (idfamille) et personne (idfamille)	Nouvelle liaison entre les fichiers famille (idfamille) et personne (idfamille)
+Contrainte_category_aliment		NWL	category (idcategory) et aliment (idcategory)	Nouvelle liaison entre les fichiers category (idcategory) et aliment (idcategory)
+category_proportion		NWL	category (idcategory) et proportion (idcategory)	Nouvelle liaison entre les fichiers category (idcategory) et proportion (idcategory)
+famille_personne		DEL	famille (idfamille) et personne (idfamille)	Liaison supprimée entre les fichiers famille (idfamille) et personne (idfamille)
+profil_profile_personne		DEL	profil (idprofil) et profile_personne (idprofil)	Liaison supprimée entre les fichiers profil (idprofil) et profile_personne (idprofil)
+personne_profile_personne		DEL	personne (idpersonne) et profile_personne (idpersonne)	Liaison supprimée entre les fichiers personne (idpersonne) et profile_personne (idpersonne)
+personne_jour_personne		DEL	personne (idpersonne) et jour_personne (idpersonne)	Liaison supprimée entre les fichiers personne (idpersonne) et jour_personne (idpersonne)
+jour_jour_personne		DEL	jour (idjour) et jour_personne (idjour)	Liaison supprimée entre les fichiers jour (idjour) et jour_personne (idjour)
+profil_proportion		DEL	profil (idprofil) et proportion (idprofil)	Liaison supprimée entre les fichiers profil (idprofil) et proportion (idprofil)
+category_aliment		DEL	category (idcategory) et aliment (idcategory)	Liaison supprimée entre les fichiers category (idcategory) et aliment (idcategory)
+category_proportion		DEL	category (idcategory) et proportion (idcategory)	Liaison supprimée entre les fichiers category (idcategory) et proportion (idcategory)

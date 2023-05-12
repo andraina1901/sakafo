@@ -1,0 +1,2 @@
+//MO020-021.TXT ANA00020 TO ANA00021
+profil_jour_famille	IDFamille	VWRUBNT	Identifiant automatique (8 octets)$Entier sur 8 octets	La rubrique 1!s! a pour nouveau type Identifiant automatique (8 octets)

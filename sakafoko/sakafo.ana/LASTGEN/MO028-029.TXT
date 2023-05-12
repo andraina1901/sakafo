@@ -1,0 +1,15 @@
+//MO028-029.TXT ANA00028 TO ANA00029
+personne_jour		TAR	29	nouvelle taille enregistrement : 29
+personne_jour	idpersonne_jour	RUB+		idpersonne_jour est une nouvelle clé
+personne_jour	Idpersonne_Idjour	RUB-		la rubrique Idpersonne_Idjour est supprimée
+personne_profil		TAR	29	nouvelle taille enregistrement : 29
+personne_profil	idpersonne_profil	RUB+		idpersonne_profil est une nouvelle clé
+personne_profil	Idpersonne_Idprofil	RUB-		la rubrique Idpersonne_Idprofil est supprimée
+Contrainte_famille_personne		DEL	famille (idfamille) et personne (Idfamille)	Liaison supprimée entre les fichiers famille (idfamille) et personne (Idfamille)
+Contrainte_personne_jour		DEL	personne (idpersonne) et personne_jour (Idpersonne)	Liaison supprimée entre les fichiers personne (idpersonne) et personne_jour (Idpersonne)
+Contrainte_jour_personne		DEL	jour (idjour) et personne_jour (Idjour)	Liaison supprimée entre les fichiers jour (idjour) et personne_jour (Idjour)
+Contrainte_personne_profil		DEL	personne (idpersonne) et personne_profil (Idpersonne)	Liaison supprimée entre les fichiers personne (idpersonne) et personne_profil (Idpersonne)
+Contrainte_profil_personne		DEL	profil (idprofil) et personne_profil (Idprofil)	Liaison supprimée entre les fichiers profil (idprofil) et personne_profil (Idprofil)
+Contrainte_category_aliment		DEL	category (idcategory) et aliment (idcategory)	Liaison supprimée entre les fichiers category (idcategory) et aliment (idcategory)
+Contrainte_profil_proportion		DEL	profil (idprofil) et proportion (Idprofil)	Liaison supprimée entre les fichiers profil (idprofil) et proportion (Idprofil)
+Contrainte_category_proportion		DEL	category (idcategory) et proportion (Idcategory)	Liaison supprimée entre les fichiers category (idcategory) et proportion (Idcategory)

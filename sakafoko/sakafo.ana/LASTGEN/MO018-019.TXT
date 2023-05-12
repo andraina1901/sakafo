@@ -1,0 +1,3 @@
+//MO018-019.TXT ANA00018 TO ANA00019
+nbcategory		VIEW+		La vue nbcategory a été créée.
+isaprofil		VIEW+		La vue isaprofil a été créée.

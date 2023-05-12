@@ -1,0 +1,5 @@
+//MO021-022.TXT ANA00021 TO ANA00022
+profil_jour_famille		VWCNX+	Connexion C/S	
+nbcategory		VWCNX+	Connexion C/S	
+isaprofil		VWCNX+	Connexion C/S	
+vuFinal		VWCNX+	Connexion C/S	

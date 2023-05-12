@@ -1,0 +1,18 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+jour		TAR	119	nouvelle taille enregistrement : 119
+jour	abrevjour	RUB+		abrevjour est une nouvelle rubrique
+proportion	Idprofil	RUB+		Idprofil est une nouvelle clé
+proportion	Idcategory	RUB+		Idcategory est une nouvelle clé
+proportion	idcategory	RUB-		la rubrique idcategory est supprimée
+proportion	idprofil	RUB-		la rubrique idprofil est supprimée
+personne_jour		NFI		nouveau fichier
+personne_profil		NFI		nouveau fichier
+profile_personne		FIC-	profile_personne	Fichier supprimé profile_personne
+jour_personne		FIC-	jour_personne	Fichier supprimé jour_personne
+Contrainte_personne_jour		NWL	personne (idpersonne) et personne_jour (Idpersonne)	Nouvelle liaison entre les fichiers personne (idpersonne) et personne_jour (Idpersonne)
+Contrainte_jour_personne		NWL	jour (idjour) et personne_jour (Idjour)	Nouvelle liaison entre les fichiers jour (idjour) et personne_jour (Idjour)
+Contrainte_personne_profil		NWL	personne (idpersonne) et personne_profil (Idpersonne)	Nouvelle liaison entre les fichiers personne (idpersonne) et personne_profil (Idpersonne)
+Contrainte_profil_personne		NWL	profil (idprofil) et personne_profil (Idprofil)	Nouvelle liaison entre les fichiers profil (idprofil) et personne_profil (Idprofil)
+Contrainte_category_aliment		NWL	category (idcategory) et aliment (idcategory)	Nouvelle liaison entre les fichiers category (idcategory) et aliment (idcategory)
+Contrainte_profil_proportion		NWL	profil (idprofil) et proportion (Idprofil)	Nouvelle liaison entre les fichiers profil (idprofil) et proportion (Idprofil)
+Contrainte_category_proportion		NWL	category (idcategory) et proportion (Idcategory)	Nouvelle liaison entre les fichiers category (idcategory) et proportion (Idcategory)

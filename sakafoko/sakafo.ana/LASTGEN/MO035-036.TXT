@@ -1,0 +1,3 @@
+//MO035-036.TXT ANA00035 TO ANA00036
+Proportion_personne		VIEW+		La vue Proportion_personne a été créée.
+		VIEW-	Proportion_personne	La vue Proportion_personne a été supprimée.

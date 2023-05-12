@@ -1,0 +1,15 @@
+//MO029-030.TXT ANA00029 TO ANA00030
+personne_jour		NFI		nouveau fichier
+personne_profil		NFI		nouveau fichier
+personne_jour		FIC-	personne_jour	Fichier supprimé personne_jour
+personne_profil		FIC-	personne_profil	Fichier supprimé personne_profil
+famille_personne		NWL	famille (idfamille) et personne (Idfamille)	Nouvelle liaison entre les fichiers famille (idfamille) et personne (Idfamille)
+profil_proportion		NWL	profil (idprofil) et proportion (Idprofil)	Nouvelle liaison entre les fichiers profil (idprofil) et proportion (Idprofil)
+Contrainte_profil_personne		NWL	profil (idprofil) et personne_profil (Idprofil)	Nouvelle liaison entre les fichiers profil (idprofil) et personne_profil (Idprofil)
+Contrainte_jour_personne		NWL	jour (idjour) et personne_jour (Idjour)	Nouvelle liaison entre les fichiers jour (idjour) et personne_jour (Idjour)
+Contrainte_personne_profil		NWL	personne (idpersonne) et personne_profil (Idpersonne)	Nouvelle liaison entre les fichiers personne (idpersonne) et personne_profil (Idpersonne)
+Contrainte_personne_jour		NWL	personne (idpersonne) et personne_jour (Idpersonne)	Nouvelle liaison entre les fichiers personne (idpersonne) et personne_jour (Idpersonne)
+category_aliment		NWL	category (idcategory) et aliment (idcategory)	Nouvelle liaison entre les fichiers category (idcategory) et aliment (idcategory)
+category_proportion		NWL	category (idcategory) et proportion (Idcategory)	Nouvelle liaison entre les fichiers category (idcategory) et proportion (Idcategory)
+personne_profil		FRN		
+personne_jour		FRN		

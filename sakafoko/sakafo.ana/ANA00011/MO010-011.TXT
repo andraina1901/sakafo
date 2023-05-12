@@ -1,0 +1,21 @@
+//MO010-011.TXT ANA00010 TO ANA00011
+famille		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+profil		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+personne		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+jour		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+category		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+ration		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+aliment		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+proportion		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+personne_jour		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+personne_profil		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+Connexion C/S		CNX		
+famille		FRN		
+personne		FRN		
+jour		FRN		
+category		FRN		
+ration		FRN		
+aliment		FRN		
+proportion		FRN		
+personne_jour		FRN		
+personne_profil		FRN		

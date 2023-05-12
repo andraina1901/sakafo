@@ -1,0 +1,20 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+famille		NFI		nouveau fichier
+profil		NFI		nouveau fichier
+personne		NFI		nouveau fichier
+profile_personne		NFI		nouveau fichier
+jour		NFI		nouveau fichier
+jour_personne		NFI		nouveau fichier
+category		NFI		nouveau fichier
+ration		NFI		nouveau fichier
+aliment		NFI		nouveau fichier
+proportion		NFI		nouveau fichier
+famille_personne		NWL	famille (idfamille) et personne (idfamille)	Nouvelle liaison entre les fichiers famille (idfamille) et personne (idfamille)
+profil_profile_personne		NWL	profil (idprofil) et profile_personne (idprofil)	Nouvelle liaison entre les fichiers profil (idprofil) et profile_personne (idprofil)
+personne_profile_personne		NWL	personne (idpersonne) et profile_personne (idpersonne)	Nouvelle liaison entre les fichiers personne (idpersonne) et profile_personne (idpersonne)
+personne_jour_personne		NWL	personne (idpersonne) et jour_personne (idpersonne)	Nouvelle liaison entre les fichiers personne (idpersonne) et jour_personne (idpersonne)
+jour_jour_personne		NWL	jour (idjour) et jour_personne (idjour)	Nouvelle liaison entre les fichiers jour (idjour) et jour_personne (idjour)
+profil_proportion		NWL	profil (idprofil) et proportion (idprofil)	Nouvelle liaison entre les fichiers profil (idprofil) et proportion (idprofil)
+category_aliment		NWL	category (idcategory) et aliment (idcategory)	Nouvelle liaison entre les fichiers category (idcategory) et aliment (idcategory)
+category_proportion		NWL	category (idcategory) et proportion (idcategory)	Nouvelle liaison entre les fichiers category (idcategory) et proportion (idcategory)
+profil		FRN		
